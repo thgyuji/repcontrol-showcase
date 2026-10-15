@@ -1,0 +1,12 @@
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Binários e arquivos temporários
+*.tmp
+*.bak
